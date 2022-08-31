@@ -9,3 +9,5 @@
 Welcome to OpenWald community!
 
 Hello OpenWald!
+
+Hello world!
