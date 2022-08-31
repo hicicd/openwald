@@ -76,4 +76,4 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          files: artifact/sha256sums.txt
+          files: download-artifact/sha256sums.txt
